@@ -19,5 +19,5 @@ export default defineConfig(({ mode }) => ({
       "@": path.resolve(__dirname, "./src"),
     },
   },
-  base: 'coderatul.github.io', 
+  base: '/coderatul.github.io/', // Corrected base path with leading and trailing slashes
 }));
