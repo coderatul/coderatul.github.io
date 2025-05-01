@@ -8,6 +8,7 @@ on:
 permissions:
   id-token: write # Required for authentication
   contents: write # Required to push to the gh-pages branch
+  pages: write    # Required to create a GitHub Pages deployment
 
 jobs:
   deploy:
