@@ -9,7 +9,7 @@ const Hero = () => {
         <div className="animate-fade-in space-y-6 max-w-3xl">
           <p className="text-primary font-medium">Hello, I'm</p>
           <h1 className="text-4xl md:text-6xl font-bold tracking-tight">
-            Atul
+            Atul Kushwaha
           </h1>
           <h2 className="text-3xl md:text-5xl font-bold text-foreground/70 tracking-tight">
             Computer Science Undergraduate
